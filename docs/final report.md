@@ -1,6 +1,6 @@
 # Context-aware IoT-AR Assistance for Civil Infrastructure Inspection
 
-[![Demo video](XX)](Youtube link)
+[![Demo video](XX)](https://youtu.be/DCJDT3YkczE)
 
 - Jinding Xing, Department of Civil and Environmental Engineering
 - Ruoxin Xiong, Department of Civil and Environmental Engineering
